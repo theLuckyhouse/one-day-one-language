@@ -14,5 +14,5 @@ Recuerda siempre: sin dolor no hay gloria. Cada desafío que enfrentas te acerca
 ### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 2%; width:2%;"/></a> Día 1: Python
 <img src="https://github.com/theLuckyhouse/one-day-one-language/blob/main/Dia%201%20%23Python/Python.png" alt="Imagen de Python" width="400" height="300" />
 
-## [Código](https://github.com/theLuckyhouse/one-day-one-language/blob/main/Dia%201%20%23Python/python.py)
+## [Código](https://github.com/theLuckyhouse/one-day-one-language/blob/main/Dia%201%20%23Python)
 **Recursos:** [Web oficial](https://www.python.org) | [Editor en línea](https://www.online-python.com/) | [Configuración](https://www.python.org/downloads/) | [Documentación](https://docs.python.org/es/3/) 
