@@ -12,3 +12,6 @@ Recuerda siempre: sin dolor no hay gloria. Cada desafío que enfrentas te acerca
 
 # Calendario
 ## Día 1: Python
+<img src="https://github.com/theLuckyhouse/one-day-one-language/blob/main/Dia%201%20%23Python/Python.png" alt="Imagen de Python" width="400" height="300" />
+
+
